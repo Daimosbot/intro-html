@@ -1,7 +1,1 @@
 blog.mattslab.online
-RewriteEngine on
-RewriteRule kodowanie-dla-casuali index.html
-RewriteRule kim-jestem kimjestem.html
-RewriteRule oferta-tworzenie-stron-www oferta.html
-RewriteRule cv-programista-python-php-html cv.html
-RewriteRule kontakt-programista-python kontakt.html
